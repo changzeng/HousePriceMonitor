@@ -1,0 +1,5 @@
+baidu-aip
+pillow
+selenium
+pandas
+openpyxl
